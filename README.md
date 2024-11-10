@@ -1,0 +1,3 @@
+这里放些我自己学习rag时的代码
+
+python_RAG中是用python直接实现的简单RAG
